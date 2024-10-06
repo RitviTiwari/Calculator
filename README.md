@@ -26,7 +26,7 @@ This is a simple calculator project built using **HTML**, **CSS**, and **JavaScr
 -Click the = button to see the result.
 -Use the C button to clear the input.
 ## Screenshots:
-Here is a screenshot of the calculator interface: `(Calculator/calculatorpic.jpg)`
+Here is a screenshot of the calculator interface: https://github.com/RitviTiwari/Calculator/blob/main/calculatorpic.jpg
 
 ## Future Improvements
 -Implement advanced operations (e.g., square root, exponentiation).
